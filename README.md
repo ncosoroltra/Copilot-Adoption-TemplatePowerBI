@@ -1,5 +1,7 @@
 This project aims to enhance the utilization and effectiveness of Microsoft Power BI in tracking and analyzing the adoption of Copilot features across the organization. This initiative is designed to provide stakeholders with valuable insights into how effectively Copilot is being integrated into daily operations and to identify areas for improvement.
 
+!!The current template is in Spanish language.
+
 **Objectives:**
 
 - Metrics Development: Create a comprehensive set of metrics that capture the usage and performance of Copilot within the organization, including user engagement, frequency of use, and impact on productivity.
